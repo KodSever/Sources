@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=RTFaFWxb1WA&list=PLX-uZVK_0K_7NmsYfe2BTOk_IamWC2
 
 # UNITY TUTORIAL SQLITE
 https://www.youtube.com/watch?v=CtDSQkLdlZg
+
+# CSharp CSV Okuma
+https://www.karadasburak.com/c-ile-csv-dosyalarini-okumak/
