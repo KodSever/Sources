@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=CtDSQkLdlZg
 
 # CSharp CSV Okuma
 https://www.karadasburak.com/c-ile-csv-dosyalarini-okumak/
+
+# COMPUTER SCIENCE FATHER OF GEEK :)
+https://www.geeksforgeeks.org
