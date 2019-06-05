@@ -12,3 +12,6 @@ https://www.karadasburak.com/c-ile-csv-dosyalarini-okumak/
 
 # COMPUTER SCIENCE FATHER OF GEEK :)
 https://www.geeksforgeeks.org
+
+# YASIR KULA
+https://yasirkula.com
