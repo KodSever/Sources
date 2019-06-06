@@ -15,3 +15,15 @@ https://www.geeksforgeeks.org
 
 # YASIR KULA
 https://yasirkula.com
+
+
+# SUNUCU KAYNAKÇALAR
+https://www.apachefriends.org/tr/index.html
+http://www.wampserver.com/en/
+https://www.mamp.info/en/
+
+# DLL KAYNAKÇA
+https://www.dllme.com/dll/files/mysql_data_dll.html
+
+# BAĞLANTI STRINGI
+https://www.connectionstrings.com/mysql/
