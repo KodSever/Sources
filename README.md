@@ -46,3 +46,6 @@ https://medium.com/@pierrickbignet/managing-assetbundles-assets-references-in-un
 
 # MULTIPLAYER GAME SERVER FOR NODE JS
 https://docs.colyseus.io
+
+# CREATING ASSETBUNDLE
+https://www.youtube.com/watch?v=3uwzxDvXKOU
