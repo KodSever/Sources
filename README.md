@@ -29,3 +29,6 @@ https://www.dllme.com/dll/files/mysql_data_dll.html
 
 # BAĞLANTI STRINGI
 https://www.connectionstrings.com/mysql/
+
+# LOAD IMAGE RUNTİME
+http://gyanendushekhar.com/2017/07/08/load-image-runtime-unity/
