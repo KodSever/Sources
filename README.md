@@ -54,3 +54,6 @@ https://www.framer.com
 
 # 22 DESIGN TOOLS
 https://think360studio.com/22-best-tools-for-designing-a-mobile-app-ui-design/
+
+# MURAT YÜCEDAĞ
+https://www.youtube.com/user/YazilimHerYerde/playlists
