@@ -26,6 +26,7 @@ https://www.mamp.info/en/
 
 # DLL KAYNAKÇA
 https://www.dllme.com/dll/files/mysql_data_dll.html
+https://www.dll-files.com
 
 # BAĞLANTI STRINGI
 https://www.connectionstrings.com/mysql/
