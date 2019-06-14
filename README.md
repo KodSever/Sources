@@ -32,3 +32,6 @@ https://www.connectionstrings.com/mysql/
 
 # LOAD IMAGE RUNTİME
 http://gyanendushekhar.com/2017/07/08/load-image-runtime-unity/
+
+# C# HARICI KOMUT DOSYALARININ YÜKLENMESİNE İZİN VERİR
+https://assetstore.unity.com/packages/tools/integration/dynamic-c-82084
