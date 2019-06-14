@@ -1,3 +1,25 @@
+# ONLINE DRAWING TOOLS
+https://sketch.io/sketchpad/
+
+https://www.pixilart.com/draw
+
+https://www.autodraw.com
+
+https://drawisland.com
+
+https://www.youidraw.com/apps/painter/
+
+https://www.draw.io
+
+https://aggie.io
+
+
+# ONLINE PHOTOSHOP
+https://www.photopea.com
+
+# WICKED ANIMATION(FLASH ALTERNATIF)
+http://wickeditor.com/wick-editor/
+
 # UNITY MYSQL
 https://www.youtube.com/watch?v=4W90-mh70JY
 
