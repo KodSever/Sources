@@ -35,3 +35,7 @@ http://gyanendushekhar.com/2017/07/08/load-image-runtime-unity/
 
 # C# HARICI KOMUT DOSYALARININ YÜKLENMESİNE İZİN VERİR
 https://assetstore.unity.com/packages/tools/integration/dynamic-c-82084
+
+# RUN MANAGED CODE IN UNITY
+https://coffeebraingames.wordpress.com/2019/03/17/run-managed-code-in-unitys-job-system/
+
