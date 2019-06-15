@@ -88,3 +88,14 @@ https://www.youtube.com/user/YazilimHerYerde/playlists
 
 # TREEVIEW
 https://forum.unity.com/threads/treeview-control.97797/
+
+# PYTHON
+http://www.openbookproject.net/books/bpp4awd/index.html
+
+https://developers.google.com/edu/python/
+
+https://www.programiz.com/python-programming
+
+https://thepythonguru.com
+
+
