@@ -17,7 +17,15 @@ https://nightdriver.bandcamp.com/music?fbclid=IwAR0qdRQcnEai9Glh_jUXet-dmHFxvmIX
 https://audionautix.com
 
 # ART ASSET TUTORIALS
+https://opengameart.org/content/les-forges-pixel-art-course
 
+http://www.patimrie.com/free
+
+https://gumroad.com/funlovinartist#
+
+https://www.youtube.com/watch?v=z8ncZ8e5gDM
+
+https://edtechdigest.com/2017/08/31/a-personal-digital-tutor/
 
 # ONLINE DRAWING TOOLS
 https://sketch.io/sketchpad/
