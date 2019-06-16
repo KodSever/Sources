@@ -1,3 +1,18 @@
+# FONTS
+https://www.dafont.com
+https://www.fontsquirrel.com
+
+# SOUND
+https://www.apple.com/tr/mac/garageband/
+https://www.bfxr.net
+https://freesound.org
+https://www.looperman.com
+https://nightdriver.bandcamp.com/music?fbclid=IwAR0qdRQcnEai9Glh_jUXet-dmHFxvmIX03pgAE_zvnpaqKDsuCODljS-vR8
+https://audionautix.com
+
+# ART ASSET TUTORIALS
+
+
 # ONLINE DRAWING TOOLS
 https://sketch.io/sketchpad/
 
