@@ -27,6 +27,33 @@ https://www.youtube.com/watch?v=z8ncZ8e5gDM
 
 https://edtechdigest.com/2017/08/31/a-personal-digital-tutor/
 
+# ART ASSETS
+https://opengameart.org
+
+http://www.lostgarden.com
+
+https://www.spriters-resource.com
+
+https://itch.io/game-assets/free
+
+http://www.videogamesprites.net
+
+https://letsmakegames.org
+
+https://www.gameart2d.com/freebies.html
+
+https://craftpix.net/freebies/
+
+https://www.glitchthegame.com/public-domain-game-art/
+
+https://www.gamedevmarket.net
+
+https://www.reddit.com/r/gameassets/
+
+http://www.gameacademy.com/free-game-art-assets-resources-for-indie-developers/
+
+https://www.textures.com
+
 # ONLINE DRAWING TOOLS
 https://sketch.io/sketchpad/
 
