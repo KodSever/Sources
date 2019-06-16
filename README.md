@@ -54,6 +54,8 @@ http://www.gameacademy.com/free-game-art-assets-resources-for-indie-developers/
 
 https://freegamearts.tuxfamily.org
 
+https://gameartpartners.com
+
 https://www.textures.com
 
 # ONLINE DRAWING TOOLS
