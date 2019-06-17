@@ -166,6 +166,9 @@
 # MURAT YÜCEDAĞ
 * [Murat Yücedağ](https://www.youtube.com/user/YazilimHerYerde/playlists)
 
+# ŞADİ EVREN ŞEKER
+* [ŞADİ EVREN ŞEKER](http://sadievrenseker.com)
+
 # TREEVIEW
 * [TreeView for Unity](https://forum.unity.com/threads/treeview-control.97797/)
 
