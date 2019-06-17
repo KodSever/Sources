@@ -163,56 +163,56 @@
 * [Mamp](https://www.mamp.info/en/)
 
 # DLL KAYNAKÇA
-https://www.dllme.com/dll/files/mysql_data_dll.html
+* [Dll Me](https://www.dllme.com/dll/files/mysql_data_dll.html)
 
-https://www.dll-files.com
+* [Dll Files](https://www.dll-files.com)
 
 # BAĞLANTI STRINGI
-https://www.connectionstrings.com/mysql/
+* [ConnectionStrings](https://www.connectionstrings.com/mysql/)
 
 # LOAD IMAGE RUNTİME
-http://gyanendushekhar.com/2017/07/08/load-image-runtime-unity/
+* [Load Image Runtime Unity](http://gyanendushekhar.com/2017/07/08/load-image-runtime-unity/)
 
 # C# HARICI KOMUT DOSYALARININ YÜKLENMESİNE İZİN VERİR
-https://assetstore.unity.com/packages/tools/integration/dynamic-c-82084
+* [C# Harici Komut Yukle](https://assetstore.unity.com/packages/tools/integration/dynamic-c-82084)
 
 # RUN MANAGED CODE IN UNITY
-https://coffeebraingames.wordpress.com/2019/03/17/run-managed-code-in-unitys-job-system/
+* [Run Managed Code Unity](https://coffeebraingames.wordpress.com/2019/03/17/run-managed-code-in-unitys-job-system/)
 
 # MANAGING ASSETBUNDLES
-https://medium.com/@pierrickbignet/managing-assetbundles-assets-references-in-unity-705db5338785
+* [Managing AssetBundles](https://medium.com/@pierrickbignet/managing-assetbundles-assets-references-in-unity-705db5338785)
 
 # MULTIPLAYER GAME SERVER FOR NODE JS
-https://docs.colyseus.io
+* [Multiplayer Game Server Node JS for Unity](https://docs.colyseus.io)
 
 # CREATING ASSETBUNDLE
-https://www.youtube.com/watch?v=3uwzxDvXKOU
+* [Creating AssetBundle](https://www.youtube.com/watch?v=3uwzxDvXKOU)
 
 # FAST DESIGN TOOL
-https://www.framer.com
+* [Fast Design Tool](https://www.framer.com)
 
 # 22 DESIGN TOOLS
-https://think360studio.com/22-best-tools-for-designing-a-mobile-app-ui-design/
+* [22 Design Tools](https://think360studio.com/22-best-tools-for-designing-a-mobile-app-ui-design/)
 
 # UI DESIGN TOOL
-https://materialdesignkit.com/android-gui/
+* [UI Design Tool](https://materialdesignkit.com/android-gui/)
 
 # FREE ANDROID DESIGN
-https://tr.pinterest.com/krititiwari1010/free-android-ui-designs/
+* [Free Android Design](https://tr.pinterest.com/krititiwari1010/free-android-ui-designs/)
 
 # MURAT YÜCEDAĞ
-https://www.youtube.com/user/YazilimHerYerde/playlists
+* [Murat Yücedağ](https://www.youtube.com/user/YazilimHerYerde/playlists)
 
 # TREEVIEW
-https://forum.unity.com/threads/treeview-control.97797/
+* [TreeView for Unity](https://forum.unity.com/threads/treeview-control.97797/)
 
 # PYTHON
-http://www.openbookproject.net/books/bpp4awd/index.html
+* [Openbookproject Python](http://www.openbookproject.net/books/bpp4awd/index.html)
 
-https://developers.google.com/edu/python/
+* [Developers Python](https://developers.google.com/edu/python/)
 
-https://www.programiz.com/python-programming
+* [Programiz Python](https://www.programiz.com/python-programming)
 
-https://thepythonguru.com
+* [Pythonguru Python](https://thepythonguru.com)
 
 
