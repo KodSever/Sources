@@ -17,46 +17,46 @@
 * [audionautix](https://audionautix.com)
 
 # ART ASSET TUTORIALS
+* [How To Import 3D Models From Blender To Unity](https://www.youtube.com/watch?v=z8ncZ8e5gDM)
+
 * [opengameart](https://opengameart.org/content/les-forges-pixel-art-course)
 
 * [patimrie](http://www.patimrie.com/free)
 
 * [gumroad](https://gumroad.com/funlovinartist#)
 
-* [How To Import 3D Models From Blender To Unity](https://www.youtube.com/watch?v=z8ncZ8e5gDM)
-
 * [digital tutor](https://edtechdigest.com/2017/08/31/a-personal-digital-tutor/)
 
 # ART ASSETS
-https://opengameart.org
+* [opengameart](https://opengameart.org)
 
-http://www.lostgarden.com
+* [lostgarden](http://www.lostgarden.com)
 
-https://www.spriters-resource.com
+* [spriters resource](https://www.spriters-resource.com)
 
-https://itch.io/game-assets/free
+* [itch io](https://itch.io/game-assets/free)
 
-http://www.videogamesprites.net
+* [videogamesprites](http://www.videogamesprites.net)
 
-https://letsmakegames.org
+* [letsmakegames](https://letsmakegames.org)
 
-https://www.gameart2d.com/freebies.html
+* [gameart2d](https://www.gameart2d.com/freebies.html)
 
-https://craftpix.net/freebies/
+* [craftpix](https://craftpix.net/freebies/)
 
-https://www.glitchthegame.com/public-domain-game-art/
+* [glitchthegame](https://www.glitchthegame.com/public-domain-game-art/)
 
-https://www.gamedevmarket.net
+* [gamedevmarket](https://www.gamedevmarket.net)
 
-https://www.reddit.com/r/gameassets/
+* [reddit](https://www.reddit.com/r/gameassets/)
 
-http://www.gameacademy.com/free-game-art-assets-resources-for-indie-developers/
+* [gameacademy](http://www.gameacademy.com/free-game-art-assets-resources-for-indie-developers/)
 
-https://freegamearts.tuxfamily.org
+* [freegamearts](https://freegamearts.tuxfamily.org)
 
-https://gameartpartners.com
+* [gameartpartners](https://gameartpartners.com)
 
-https://www.textures.com
+* [textures](https://www.textures.com)
 
 # Collections
 
