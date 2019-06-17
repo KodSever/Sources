@@ -116,51 +116,51 @@
 
 
 # ONLINE DRAWING TOOLS
-https://sketch.io/sketchpad/
+* [sketch io](https://sketch.io/sketchpad/)
 
-https://www.pixilart.com/draw
+* [pixilart](https://www.pixilart.com/draw)
 
-https://www.autodraw.com
+* [autodraw](https://www.autodraw.com)
 
-https://drawisland.com
+* [drawisland](https://drawisland.com)
 
-https://www.youidraw.com/apps/painter/
+* [youidraw](https://www.youidraw.com/apps/painter/)
 
-https://www.draw.io
+* [draw io](https://www.draw.io)
 
-https://aggie.io
+* [aggie io](https://aggie.io)
 
 
 # ONLINE PHOTOSHOP
-https://www.photopea.com
+* [photopea](https://www.photopea.com)
 
 # WICKED ANIMATION(FLASH ALTERNATIF)
-http://wickeditor.com/wick-editor/
+* [wickeditor](http://wickeditor.com/wick-editor/)
 
 # UNITY MYSQL
-https://www.youtube.com/watch?v=4W90-mh70JY
+* [MySql Tutorial](https://www.youtube.com/watch?v=4W90-mh70JY)
 
 # UNITY SQLITE
-https://www.youtube.com/watch?v=RTFaFWxb1WA&list=PLX-uZVK_0K_7NmsYfe2BTOk_IamWC2kU3&index=2
+* [SQLite](https://www.youtube.com/watch?v=RTFaFWxb1WA&list=PLX-uZVK_0K_7NmsYfe2BTOk_IamWC2kU3&index=2)
 
 # UNITY TUTORIAL SQLITE
-https://www.youtube.com/watch?v=CtDSQkLdlZg
+* [Sqlite Tutorial](https://www.youtube.com/watch?v=CtDSQkLdlZg)
 
 # CSharp CSV Okuma
-https://www.karadasburak.com/c-ile-csv-dosyalarini-okumak/
+* [CSV okuma](https://www.karadasburak.com/c-ile-csv-dosyalarini-okumak/)
 
 # COMPUTER SCIENCE FATHER OF GEEK :)
-https://www.geeksforgeeks.org
+* [GeeksForGeeks](https://www.geeksforgeeks.org)
 
 # YASIR KULA
-https://yasirkula.com
+* [Yasir Kula](https://yasirkula.com)
 
 # SUNUCU KAYNAKÇALAR
-https://www.apachefriends.org/tr/index.html
+* [Xampp](https://www.apachefriends.org/tr/index.html)
 
-http://www.wampserver.com/en/
+* [Wampserver](http://www.wampserver.com/en/)
 
-https://www.mamp.info/en/
+* [Mamp](https://www.mamp.info/en/)
 
 # DLL KAYNAKÇA
 https://www.dllme.com/dll/files/mysql_data_dll.html
