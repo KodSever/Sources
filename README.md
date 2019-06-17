@@ -17,15 +17,15 @@
 * [audionautix](https://audionautix.com)
 
 # ART ASSET TUTORIALS
-https://opengameart.org/content/les-forges-pixel-art-course
+* [opengameart](https://opengameart.org/content/les-forges-pixel-art-course)
 
-http://www.patimrie.com/free
+* [patimrie](http://www.patimrie.com/free)
 
-https://gumroad.com/funlovinartist#
+* [gumroad](https://gumroad.com/funlovinartist#)
 
-https://www.youtube.com/watch?v=z8ncZ8e5gDM
+* [How To Import 3D Models From Blender To Unity](https://www.youtube.com/watch?v=z8ncZ8e5gDM)
 
-https://edtechdigest.com/2017/08/31/a-personal-digital-tutor/
+* [digital tutor](https://edtechdigest.com/2017/08/31/a-personal-digital-tutor/)
 
 # ART ASSETS
 https://opengameart.org
