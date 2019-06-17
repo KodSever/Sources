@@ -1,7 +1,7 @@
 # FONTS
 * [dafont](https://www.dafont.com)
 
-https://www.fontsquirrel.com
+* [fontsquirrel](https://www.fontsquirrel.com)
 
 # SOUND
 https://www.apple.com/tr/mac/garageband/
