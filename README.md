@@ -138,9 +138,9 @@
 * [wickeditor](http://wickeditor.com/wick-editor/)
 
 # UNITY MYSQL & SQLITE
-* [MySql Tutorial](https://www.youtube.com/watch?v=4W90-mh70JY)
-* [SQLite](https://www.youtube.com/watch?v=RTFaFWxb1WA&list=PLX-uZVK_0K_7NmsYfe2BTOk_IamWC2kU3&index=2)
-* [Sqlite Tutorial](https://www.youtube.com/watch?v=CtDSQkLdlZg)
+* [MySql Board To Bits Games's Tutorials](https://www.youtube.com/watch?v=4W90-mh70JY)
+* [SQLite inScope Studios's Tutorials](https://www.youtube.com/watch?v=RTFaFWxb1WA&list=PLX-uZVK_0K_7NmsYfe2BTOk_IamWC2kU3&index=2)
+* [Sqlite Wonder Developer's Tutorials](https://www.youtube.com/watch?v=CtDSQkLdlZg)
 
 # CSharp CSV Okuma
 * [CSV okuma](https://www.karadasburak.com/c-ile-csv-dosyalarini-okumak/)
