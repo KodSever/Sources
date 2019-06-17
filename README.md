@@ -1,61 +1,37 @@
 # FONTS
 * [dafont](https://www.dafont.com)
-
 * [fontsquirrel](https://www.fontsquirrel.com)
 
 # SOUND
 * [Apple garaband](https://www.apple.com/tr/mac/garageband/)
-
 * [bfxr](https://www.bfxr.net)
-
 * [freesound](https://freesound.org)
-
 * [looperman](https://www.looperman.com)
-
 * [bandcamp](https://nightdriver.bandcamp.com/music?fbclid=IwAR0qdRQcnEai9Glh_jUXet-dmHFxvmIX03pgAE_zvnpaqKDsuCODljS-vR8)
-
 * [audionautix](https://audionautix.com)
 
 # ART ASSET TUTORIALS
 * [How To Import 3D Models From Blender To Unity](https://www.youtube.com/watch?v=z8ncZ8e5gDM)
-
 * [opengameart](https://opengameart.org/content/les-forges-pixel-art-course)
-
 * [patimrie](http://www.patimrie.com/free)
-
 * [gumroad](https://gumroad.com/funlovinartist#)
-
 * [digital tutor](https://edtechdigest.com/2017/08/31/a-personal-digital-tutor/)
 
 # ART ASSETS
 * [opengameart](https://opengameart.org)
-
 * [lostgarden](http://www.lostgarden.com)
-
 * [spriters resource](https://www.spriters-resource.com)
-
 * [itch io](https://itch.io/game-assets/free)
-
 * [videogamesprites](http://www.videogamesprites.net)
-
 * [letsmakegames](https://letsmakegames.org)
-
 * [gameart2d](https://www.gameart2d.com/freebies.html)
-
 * [craftpix](https://craftpix.net/freebies/)
-
 * [glitchthegame](https://www.glitchthegame.com/public-domain-game-art/)
-
 * [gamedevmarket](https://www.gamedevmarket.net)
-
 * [reddit](https://www.reddit.com/r/gameassets/)
-
 * [gameacademy](http://www.gameacademy.com/free-game-art-assets-resources-for-indie-developers/)
-
 * [freegamearts](https://freegamearts.tuxfamily.org)
-
 * [gameartpartners](https://gameartpartners.com)
-
 * [textures](https://www.textures.com)
 
 # Collections
@@ -117,17 +93,11 @@
 
 # ONLINE DRAWING TOOLS
 * [sketch io](https://sketch.io/sketchpad/)
-
 * [pixilart](https://www.pixilart.com/draw)
-
 * [autodraw](https://www.autodraw.com)
-
 * [drawisland](https://drawisland.com)
-
 * [youidraw](https://www.youidraw.com/apps/painter/)
-
 * [draw io](https://www.draw.io)
-
 * [aggie io](https://aggie.io)
 
 
@@ -153,14 +123,11 @@
 
 # SUNUCU KAYNAKÇALAR
 * [Xampp](https://www.apachefriends.org/tr/index.html)
-
 * [Wampserver](http://www.wampserver.com/en/)
-
 * [Mamp](https://www.mamp.info/en/)
 
 # DLL KAYNAKÇA
 * [Dll Me](https://www.dllme.com/dll/files/mysql_data_dll.html)
-
 * [Dll Files](https://www.dll-files.com)
 
 # BAĞLANTI STRINGI
@@ -204,11 +171,8 @@
 
 # PYTHON
 * [Openbookproject Python](http://www.openbookproject.net/books/bpp4awd/index.html)
-
 * [Developers Python](https://developers.google.com/edu/python/)
-
 * [Programiz Python](https://www.programiz.com/python-programming)
-
 * [Pythonguru Python](https://thepythonguru.com)
 
 
