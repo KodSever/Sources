@@ -137,13 +137,9 @@
 # WICKED ANIMATION(FLASH ALTERNATIF)
 * [wickeditor](http://wickeditor.com/wick-editor/)
 
-# UNITY MYSQL
+# UNITY MYSQL & SQLITE
 * [MySql Tutorial](https://www.youtube.com/watch?v=4W90-mh70JY)
-
-# UNITY SQLITE
 * [SQLite](https://www.youtube.com/watch?v=RTFaFWxb1WA&list=PLX-uZVK_0K_7NmsYfe2BTOk_IamWC2kU3&index=2)
-
-# UNITY TUTORIAL SQLITE
 * [Sqlite Tutorial](https://www.youtube.com/watch?v=CtDSQkLdlZg)
 
 # CSharp CSV Okuma
