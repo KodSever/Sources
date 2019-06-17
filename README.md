@@ -6,15 +6,15 @@
 # SOUND
 * [Apple garaband](https://www.apple.com/tr/mac/garageband/)
 
-https://www.bfxr.net
+* [bfxr](https://www.bfxr.net)
 
-https://freesound.org
+* [freesound](https://freesound.org)
 
-https://www.looperman.com
+* [looperman](https://www.looperman.com)
 
-https://nightdriver.bandcamp.com/music?fbclid=IwAR0qdRQcnEai9Glh_jUXet-dmHFxvmIX03pgAE_zvnpaqKDsuCODljS-vR8
+* [bandcamp](https://nightdriver.bandcamp.com/music?fbclid=IwAR0qdRQcnEai9Glh_jUXet-dmHFxvmIX03pgAE_zvnpaqKDsuCODljS-vR8)
 
-https://audionautix.com
+* [audionautix](https://audionautix.com)
 
 # ART ASSET TUTORIALS
 https://opengameart.org/content/les-forges-pixel-art-course
