@@ -1,6 +1,7 @@
 # FONTS
 * [dafont](https://www.dafont.com)
 * [fontsquirrel](https://www.fontsquirrel.com)
+* [1001FreeFonts](https://www.1001freefonts.com)
 
 # SOUND
 * [Apple garaband](https://www.apple.com/tr/mac/garageband/)
