@@ -10,6 +10,7 @@
 * [looperman](https://www.looperman.com)
 * [bandcamp](https://nightdriver.bandcamp.com/music?fbclid=IwAR0qdRQcnEai9Glh_jUXet-dmHFxvmIX03pgAE_zvnpaqKDsuCODljS-vR8)
 * [audionautix](https://audionautix.com)
+* [soundsnap](https://www.soundsnap.com/)
 
 # ART ASSET TUTORIALS
 * [How To Import 3D Models From Blender To Unity](https://www.youtube.com/watch?v=z8ncZ8e5gDM)
