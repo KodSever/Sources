@@ -35,6 +35,7 @@
 * [freegamearts](https://freegamearts.tuxfamily.org)
 * [gameartpartners](https://gameartpartners.com)
 * [textures](https://www.textures.com)
+* [cgtrader](https://www.cgtrader.com/items/214846/download-page)
 
 # Collections
 
