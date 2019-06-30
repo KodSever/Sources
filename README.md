@@ -36,6 +36,7 @@
 * [gameartpartners](https://gameartpartners.com)
 * [textures](https://www.textures.com)
 * [cgtrader](https://www.cgtrader.com/items/214846/download-page)
+* [squaretexture](http://squaretexture.com)
 
 # Collections
 
