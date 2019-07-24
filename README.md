@@ -108,7 +108,7 @@
 # ONLINE PHOTOSHOP
 * [photopea](https://www.photopea.com)
 
-# WICKED ANIMATION(FLASH ALTERNATIF)
+# WICKED ANIMATION(FLASH ALTERNATIVE)
 * [wickeditor](http://wickeditor.com/wick-editor/)
 
 # UNITY MYSQL & SQLITE
