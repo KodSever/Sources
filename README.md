@@ -116,6 +116,9 @@
 * [SQLite inScope Studios's Tutorials](https://www.youtube.com/watch?v=RTFaFWxb1WA&list=PLX-uZVK_0K_7NmsYfe2BTOk_IamWC2kU3&index=2)
 * [SQLite Wonder Developer's Tutorials](https://www.youtube.com/watch?v=CtDSQkLdlZg)
 
+# UNIT JSON & FIREBASE
+https://medium.com/@hmtarhan/unity-firebase-remote-config-kullanımı-269c0285a284
+
 # CSharp CSV Okuma
 * [CSV okuma](https://www.karadasburak.com/c-ile-csv-dosyalarini-okumak/)
 
